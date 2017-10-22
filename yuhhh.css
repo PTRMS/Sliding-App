@@ -1,0 +1,33 @@
+body{
+background-color:#FFF;
+margin: 0;
+overflow: hidden;
+}
+
+.move_Counter{
+position: absolute;
+top: 70px;
+left: 220px;
+font-size: 40px;
+font-family: 'helvetica';
+color: #FF9900;
+}
+
+button{
+background-color: #459;
+top: 50px;
+left:92px;
+position: absolute;
+border: none;
+color: white;
+padding: 15px 30px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+min-width:100px;
+}
+
+.my_button{
+transform: translate(-50%, 50%);
+}
